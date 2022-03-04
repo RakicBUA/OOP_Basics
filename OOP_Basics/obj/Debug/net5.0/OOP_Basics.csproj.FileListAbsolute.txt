@@ -1,0 +1,16 @@
+H:\4C\GIT\OOP_Basics\OOP_Basics\obj\Debug\net5.0\OOP_Basics.csproj.AssemblyReference.cache
+H:\4C\GIT\OOP_Basics\OOP_Basics\obj\Debug\net5.0\OOP_Basics.GeneratedMSBuildEditorConfig.editorconfig
+H:\4C\GIT\OOP_Basics\OOP_Basics\obj\Debug\net5.0\OOP_Basics.AssemblyInfoInputs.cache
+H:\4C\GIT\OOP_Basics\OOP_Basics\obj\Debug\net5.0\OOP_Basics.AssemblyInfo.cs
+H:\4C\GIT\OOP_Basics\OOP_Basics\obj\Debug\net5.0\OOP_Basics.csproj.CoreCompileInputs.cache
+H:\4C\GIT\OOP_Basics\OOP_Basics\bin\Debug\net5.0\OOP_Basics.exe
+H:\4C\GIT\OOP_Basics\OOP_Basics\bin\Debug\net5.0\OOP_Basics.deps.json
+H:\4C\GIT\OOP_Basics\OOP_Basics\bin\Debug\net5.0\OOP_Basics.runtimeconfig.json
+H:\4C\GIT\OOP_Basics\OOP_Basics\bin\Debug\net5.0\OOP_Basics.runtimeconfig.dev.json
+H:\4C\GIT\OOP_Basics\OOP_Basics\bin\Debug\net5.0\OOP_Basics.dll
+H:\4C\GIT\OOP_Basics\OOP_Basics\bin\Debug\net5.0\ref\OOP_Basics.dll
+H:\4C\GIT\OOP_Basics\OOP_Basics\bin\Debug\net5.0\OOP_Basics.pdb
+H:\4C\GIT\OOP_Basics\OOP_Basics\obj\Debug\net5.0\OOP_Basics.dll
+H:\4C\GIT\OOP_Basics\OOP_Basics\obj\Debug\net5.0\ref\OOP_Basics.dll
+H:\4C\GIT\OOP_Basics\OOP_Basics\obj\Debug\net5.0\OOP_Basics.pdb
+H:\4C\GIT\OOP_Basics\OOP_Basics\obj\Debug\net5.0\OOP_Basics.genruntimeconfig.cache
